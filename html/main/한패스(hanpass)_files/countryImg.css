@@ -1,0 +1,812 @@
+.country.PH, .currency.PH {
+    background: url(../images/currency/flag_ph.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.MN, .currency.MN {
+    background: url(../images/currency/flag_mn.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.PK, .currency.PK {
+    background: url(../images/currency/flag_pk.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.UG, .currency.UG {
+    background: url(../images/currency/flag_ug.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.GH, .currency.GH {
+    background: url(../images/currency/flag_gh.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.SN, .currency.SN {
+    background: url(../images/currency/flag_sn.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.KE, .currency.KE {
+    background: url(../images/currency/flag_ke.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.NP, .currency.NP {
+    background: url(../images/currency/flag_np.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.ZA, .currency.ZA {
+    background: url(../images/currency/flag_za.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.CA, .currency.CA {
+    background: url(../images/currency/flag_ca.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.BD, .currency.BD {
+    background: url(../images/currency/flag_bd.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.CN, .currency.CN {
+    background: url(../images/currency/flag_cn.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.ID, .currency.ID {
+    background: url(../images/currency/flag_id.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.MO, .currency.MO {
+    background: url(../images/currency/flag_mo.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.MP, .currency.MP {
+    background: url(../images/currency/flag_mp.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.MQ, .currency.MQ {
+    background: url(../images/currency/flag_mq.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.MR, .currency.MR {
+    background: url(../images/currency/flag_mr.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.MS, .currency.MS {
+    background: url(../images/currency/flag_ms.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.MT, .currency.MT {
+    background: url(../images/currency/flag_mt.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.MU, .currency.MU {
+    background: url(../images/currency/flag_mu.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.MV, .currency.MV {
+    background: url(../images/currency/flag_mv.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.MW, .currency.MW {
+    background: url(../images/currency/flag_mw.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.MX, .currency.MX {
+    background: url(../images/currency/flag_mx.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.MY, .currency.MY {
+    background: url(../images/currency/flag_my.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.MZ, .currency.MZ {
+    background: url(../images/currency/flag_mz.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.NA, .currency.NA {
+    background: url(../images/currency/flag_na.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.NE, .currency.NE {
+    background: url(../images/currency/flag_ne.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.NI, .currency.NI {
+    background: url(../images/currency/flag_ni.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.NL, .currency.NL {
+    background: url(../images/currency/flag_nl.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.NO, .currency.NO {
+    background: url(../images/currency/flag_no.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.NR, .currency.NR {
+    background: url(../images/currency/flag_nr.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.NU, .currency.NU {
+    background: url(../images/currency/flag_nu.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.NZ, .currency.NZ {
+    background: url(../images/currency/flag_nz.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.OM, .currency.OM {
+    background: url(../images/currency/flag_om.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.PA, .currency.PA {
+    background: url(../images/currency/flag_pa.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.PE, .currency.PE {
+    background: url(../images/currency/flag_pe.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.PG, .currency.PG {
+    background: url(../images/currency/flag_pg.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.PL, .currency.PL {
+    background: url(../images/currency/flag_pl.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.PR, .currency.PR {
+    background: url(../images/currency/flag_pr.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.PS, .currency.PS {
+    background: url(../images/currency/flag_ps.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.PT, .currency.PT {
+    background: url(../images/currency/flag_pt.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.PW, .currency.PW {
+    background: url(../images/currency/flag_pw.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.PY, .currency.PY {
+    background: url(../images/currency/flag_py.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.QA, .currency.QA {
+    background: url(../images/currency/flag_qa.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.RE, .currency.RE {
+    background: url(../images/currency/flag_re.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.RO, .currency.RO {
+    background: url(../images/currency/flag_ro.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.RU, .currency.RU {
+    background: url(../images/currency/flag_ru.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.RW, .currency.RW {
+    background: url(../images/currency/flag_rw.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.SA, .currency.SA {
+    background: url(../images/currency/flag_sa.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.SB, .currency.SB {
+    background: url(../images/currency/flag_sb.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.SC, .currency.SC {
+    background: url(../images/currency/flag_sc.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.SD, .currency.SD {
+    background: url(../images/currency/flag_sd.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.SE, .currency.SE {
+    background: url(../images/currency/flag_se.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.SG, .currency.SG {
+    background: url(../images/currency/flag_sg.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.SI, .currency.SI {
+    background: url(../images/currency/flag_si.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.SK, .currency.SK {
+    background: url(../images/currency/flag_sk.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.SL, .currency.SL {
+    background: url(../images/currency/flag_sl.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.SR, .currency.SR {
+    background: url(../images/currency/flag_sr.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.ST, .currency.ST {
+    background: url(../images/currency/flag_st.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.SV, .currency.SV {
+    background: url(../images/currency/flag_sv.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.SZ, .currency.SZ {
+    background: url(../images/currency/flag_sz.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.TC, .currency.TC {
+    background: url(../images/currency/flag_tc.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.TD, .currency.TD {
+    background: url(../images/currency/flag_td.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.TG, .currency.TG {
+    background: url(../images/currency/flag_tg.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.TH, .currency.TH {
+    background: url(../images/currency/flag_th.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.TJ, .currency.TJ {
+    background: url(../images/currency/flag_tj.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.TL, .currency.TL {
+    background: url(../images/currency/flag_tl.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.TM, .currency.TM {
+    background: url(../images/currency/flag_tm.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.TN, .currency.TN {
+    background: url(../images/currency/flag_tn.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.TO, .currency.TO {
+    background: url(../images/currency/flag_to.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.TR, .currency.TR {
+    background: url(../images/currency/flag_tr.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.TT, .currency.TT {
+    background: url(../images/currency/flag_tt.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.TV, .currency.TV {
+    background: url(../images/currency/flag_tv.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.TW, .currency.TW {
+    background: url(../images/currency/flag_tw.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.TZ, .currency.TZ {
+    background: url(../images/currency/flag_tz.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.UA, .currency.UA {
+    background: url(../images/currency/flag_ua.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.UK, .currency.UK {
+    background: url(../images/currency/flag_uk.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.US, .currency.US {
+    background: url(../images/currency/flag_us.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.UY, .currency.UY {
+    background: url(../images/currency/flag_uy.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.UZ, .currency.UZ {
+    background: url(../images/currency/flag_uz.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.VC, .currency.VC {
+    background: url(../images/currency/flag_vc.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.VI, .currency.VI {
+    background: url(../images/currency/flag_vi.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.VN, .currency.VN {
+    background: url(../images/currency/flag_vn.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.VU, .currency.VU {
+    background: url(../images/currency/flag_vu.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.WS, .currency.WS {
+    background: url(../images/currency/flag_ws.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.YE, .currency.YE {
+    background: url(../images/currency/flag_ye.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.YT, .currency.YT {
+    background: url(../images/currency/flag_yt.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.ZM, .currency.ZM {
+    background: url(../images/currency/flag_zm.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.ZW, .currency.ZW {
+    background: url(../images/currency/flag_zw.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.LK, .currency.LK {
+    background: url(../images/currency/flag_lk.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.AE, .currency.AE {
+    background: url(../images/currency/flag_ae.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.AF, .currency.AF {
+    background: url(../images/currency/flag_af.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.AI, .currency.AI {
+    background: url(../images/currency/flag_ai.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.AL, .currency.AL {
+    background: url(../images/currency/flag_al.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.AN, .currency.AN {
+    background: url(../images/currency/flag_an.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.AO, .currency.AO {
+    background: url(../images/currency/flag_ao.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.AR, .currency.AR {
+    background: url(../images/currency/flag_ar.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.AS, .currency.AS {
+    background: url(../images/currency/flag_as.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.AT, .currency.AT {
+    background: url(../images/currency/flag_at.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.AU, .currency.AU {
+    background: url(../images/currency/flag_au.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.AW, .currency.AW {
+    background: url(../images/currency/flag_aw.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.AZ, .currency.AZ {
+    background: url(../images/currency/flag_az.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.BA, .currency.BA {
+    background: url(../images/currency/flag_ba.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.BB, .currency.BB {
+    background: url(../images/currency/flag_bb.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.BE, .currency.BE {
+    background: url(../images/currency/flag_be.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.BF, .currency.BF {
+    background: url(../images/currency/flag_bf.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.BG, .currency.BG {
+    background: url(../images/currency/flag_bg.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.BH, .currency.BH {
+    background: url(../images/currency/flag_bh.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.BI, .currency.BI {
+    background: url(../images/currency/flag_bi.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.BJ, .currency.BJ {
+    background: url(../images/currency/flag_bj.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.BN, .currency.BN {
+    background: url(../images/currency/flag_bn.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.BO, .currency.BO {
+    background: url(../images/currency/flag_bo.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.BR, .currency.BR {
+    background: url(../images/currency/flag_br.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.BS, .currency.BS {
+    background: url(../images/currency/flag_bs.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.BT, .currency.BT {
+    background: url(../images/currency/flag_bt.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.BW, .currency.BW {
+    background: url(../images/currency/flag_bw.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.BY, .currency.BY {
+    background: url(../images/currency/flag_by.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.BZ, .currency.BZ {
+    background: url(../images/currency/flag_bz.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.CD, .currency.CD {
+    background: url(../images/currency/flag_cd.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.CF, .currency.CF {
+    background: url(../images/currency/flag_cf.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.CG, .currency.CG {
+    background: url(../images/currency/flag_cg.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.CH, .currency.CH {
+    background: url(../images/currency/flag_ch.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.CI, .currency.CI {
+    background: url(../images/currency/flag_ci.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.CK, .currency.CK {
+    background: url(../images/currency/flag_ck.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.CL, .currency.CL {
+    background: url(../images/currency/flag_cl.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.CM, .currency.CM {
+    background: url(../images/currency/flag_cm.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.CO, .currency.CO {
+    background: url(../images/currency/flag_co.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.CR, .currency.CR {
+    background: url(../images/currency/flag_cr.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.CV, .currency.CV {
+    background: url(../images/currency/flag_cv.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.CY, .currency.CY {
+    background: url(../images/currency/flag_cy.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.CZ, .currency.CZ {
+    background: url(../images/currency/flag_cz.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.DE, .currency.DE {
+    background: url(../images/currency/flag_de.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.DJ, .currency.DJ {
+    background: url(../images/currency/flag_dj.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.DK, .currency.DK {
+    background: url(../images/currency/flag_dk.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.DM, .currency.DM {
+    background: url(../images/currency/flag_dm.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.DO, .currency.DO {
+    background: url(../images/currency/flag_do.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.DZ, .currency.DZ {
+    background: url(../images/currency/flag_dz.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.EC, .currency.EC {
+    background: url(../images/currency/flag_ec.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.EE, .currency.EE {
+    background: url(../images/currency/flag_ee.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.EG, .currency.EG {
+    background: url(../images/currency/flag_eg.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.ER, .currency.ER {
+    background: url(../images/currency/flag_er.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.ES, .currency.ES {
+    background: url(../images/currency/flag_es.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.ET, .currency.ET {
+    background: url(../images/currency/flag_et.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.EU, .currency.EU {
+    background: url(../images/currency/flag_eu.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.FI, .currency.FI {
+    background: url(../images/currency/flag_fi.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.FJ, .currency.FJ {
+    background: url(../images/currency/flag_fj.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.FK, .currency.FK {
+    background: url(../images/currency/flag_fk.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.FM, .currency.FM {
+    background: url(../images/currency/flag_fm.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.FR, .currency.FR {
+    background: url(../images/currency/flag_fr.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.GA, .currency.GA {
+    background: url(../images/currency/flag_ga.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.GB, .currency.GB {
+    background: url(../images/currency/flag_gb.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.GD, .currency.GD {
+    background: url(../images/currency/flag_gd.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.GE, .currency.GE {
+    background: url(../images/currency/flag_ge.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.GF, .currency.GF {
+    background: url(../images/currency/flag_gf.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.GI, .currency.GI {
+    background: url(../images/currency/flag_gi.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.GM, .currency.GM {
+    background: url(../images/currency/flag_gm.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.GN, .currency.GN {
+    background: url(../images/currency/flag_gn.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.GP, .currency.GP {
+    background: url(../images/currency/flag_gp.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.GQ, .currency.GQ {
+    background: url(../images/currency/flag_gq.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.GR, .currency.GR {
+    background: url(../images/currency/flag_gr.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.GT, .currency.GT {
+    background: url(../images/currency/flag_gt.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.GU, .currency.GU {
+    background: url(../images/currency/flag_gu.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.GW, .currency.GW {
+    background: url(../images/currency/flag_gw.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.GY, .currency.GY {
+    background: url(../images/currency/flag_gy.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.HK, .currency.HK {
+    background: url(../images/currency/flag_hk.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.HN, .currency.HN {
+    background: url(../images/currency/flag_hn.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.HR, .currency.HR {
+    background: url(../images/currency/flag_hr.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.HU, .currency.HU {
+    background: url(../images/currency/flag_hu.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.IE, .currency.IE {
+    background: url(../images/currency/flag_ie.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.IL, .currency.IL {
+    background: url(../images/currency/flag_il.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.IN, .currency.IN {
+    background: url(../images/currency/flag_in.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.IQ, .currency.IQ {
+    background: url(../images/currency/flag_iq.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.IS, .currency.IS {
+    background: url(../images/currency/flag_is.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.IT, .currency.IT {
+    background: url(../images/currency/flag_it.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.JM, .currency.JM {
+    background: url(../images/currency/flag_jm.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.JO, .currency.JO {
+    background: url(../images/currency/flag_jo.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.JP, .currency.JP {
+    background: url(../images/currency/flag_jp.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.KG, .currency.KG {
+    background: url(../images/currency/flag_kg.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.KH, .currency.KH {
+    background: url(../images/currency/flag_kh.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.KI, .currency.KI {
+    background: url(../images/currency/flag_ki.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.KM, .currency.KM {
+    background: url(../images/currency/flag_km.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.KN, .currency.KN {
+    background: url(../images/currency/flag_kn.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.KR, .currency.KR {
+    background: url(../images/currency/flag_kr.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.KW, .currency.KW {
+    background: url(../images/currency/flag_kw.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.KY, .currency.KY {
+    background: url(../images/currency/flag_ky.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.KZ, .currency.KZ {
+    background: url(../images/currency/flag_kz.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.LA, .currency.LA {
+    background: url(../images/currency/flag_la.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.LB, .currency.LB {
+    background: url(../images/currency/flag_lb.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.LC, .currency.LC {
+    background: url(../images/currency/flag_lc.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.LI, .currency.LI {
+    background: url(../images/currency/flag_li.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.LR, .currency.LR {
+    background: url(../images/currency/flag_lr.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.LS, .currency.LS {
+    background: url(../images/currency/flag_ls.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.LT, .currency.LT {
+    background: url(../images/currency/flag_lt.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.LU, .currency.LU {
+    background: url(../images/currency/flag_lu.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.LV, .currency.LV {
+    background: url(../images/currency/flag_lv.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.LY, .currency.LY {
+    background: url(../images/currency/flag_ly.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.MA, .currency.MA {
+    background: url(../images/currency/flag_ma.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.MC, .currency.MC {
+    background: url(../images/currency/flag_mc.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.MD, .currency.MD {
+    background: url(../images/currency/flag_md.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.MG, .currency.MG {
+    background: url(../images/currency/flag_mg.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.MH, .currency.MH {
+    background: url(../images/currency/flag_mh.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.MK, .currency.MK {
+    background: url(../images/currency/flag_mk.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}
+.country.ML, .currency.ML {
+    background: url(../images/currency/flag_ml.png) no-repeat left center;
+    background-size: 2.5rem auto;
+}

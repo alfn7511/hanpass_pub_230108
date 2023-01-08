@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1141" height="214" viewBox="0 0 1141 214">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-219 -585) translate(219.947 585.098)">
+                <path stroke="#87A3CE" stroke-linecap="square" d="M0.5 111.73L364.395 111.73"/>
+                <path stroke="#EC606B" stroke-linecap="square" d="M774.605 111.73L1138.5 111.73"/>
+                <circle cx="471.093" cy="106.645" r="106.645" fill="#547CBA" opacity=".7"/>
+                <circle cx="668.013" cy="106.645" r="106.645" fill="#E51D2C" opacity=".7"/>
+                <text fill="#FFF" font-family="AppleSDGothicNeo-Regular, Noto Sans KR " font-size="28">
+                    <tspan x="404.645" y="115.145">Remittance</tspan>
+                </text>
+                <text fill="#FFF" font-family="AppleSDGothicNeo-Regular, Noto Sans KR " font-size="28">
+                    <tspan x="610.905" y="115.145">Payments</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
